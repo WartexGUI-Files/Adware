@@ -1,1 +1,2 @@
-Virusleri Saniyeler İçinde Temizlemeye Ne Dersin?
+# Adware-List
+Virusleri Saniyeler İçinde Temizleyelim
