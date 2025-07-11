@@ -205,6 +205,8 @@
   {"package": "com.shape.shift.run.launcher.free.game.xjrtg", "action": "uninstall"},
   {"package": "com.oakever.tiletrip", "action": "uninstall"},
   {"package": "com.games.webmaster", "action": "uninstall"},
+  {"package": "filghter.threeD.game.tour", "action": "uninstall"},
+  {"package": "com.purefone.cleanmastera", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
