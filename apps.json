@@ -200,7 +200,11 @@
   {"package": "acom.gcmforex.pro", "action": "uninstall"},
   {"package": "com.document.tools.all", "action": "uninstall"},
   {"package": "com.pdffileeditor.pro", "action": "uninstall"},
-  {"package": "com.easybrain.sudoku.android", "action": "uninstall"},
+  {"package": "misplayer.games.archery", "action": "uninstall"},
+  {"package": "com.raptor.evolutio", "action": "uninstall"},
+  {"package": "com.shape.shift.run.launcher.free.game.xjrtg", "action": "uninstall"},
+  {"package": "com.oakever.tiletrip", "action": "uninstall"},
+  {"package": "com.games.webmaster", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
