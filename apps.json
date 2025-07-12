@@ -207,6 +207,12 @@
   {"package": "com.games.webmaster", "action": "uninstall"},
   {"package": "filghter.threeD.game.tour", "action": "uninstall"},
   {"package": "com.purefone.cleanmastera", "action": "uninstall"},
+  {"package": "com.logame.eliminateintruder3d", "action": "uninstall"},
+  {"package": "com.block.puzzle.game.hippo.mi", "action": "uninstall"},
+  {"package": "com.jewelsblast.ivygames.Adventure.free", "action": "uninstall"},
+  {"package": " om.mintgames.triplecrush.tile.fu", "action": "uninstall"},
+  {"package": "com.nf.snake", "action": "uninstall"},
+  {"package": "com.sukhavati.gotoplaying.bubble.BubbleShooter.mint", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
