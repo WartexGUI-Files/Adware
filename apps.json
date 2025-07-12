@@ -212,6 +212,9 @@
   {"package": " om.mintgames.triplecrush.tile.fu", "action": "uninstall"},
   {"package": "com.nf.snake", "action": "uninstall"},
   {"package": "com.sukhavati.gotoplaying.bubble.BubbleShooter.mint", "action": "uninstall"},
+  {"package": "com.wood.bolt.wordle.screw.nuts.puzzle", "action": "uninstall"},
+  {"package": "mobeasy.classic.calculator", "action": "uninstall"},
+  {"package": "mobeasyapp.math.calculator", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
