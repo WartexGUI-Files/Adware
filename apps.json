@@ -179,7 +179,6 @@
   {"package": "com.ction.playergames", "action": "uninstall"},
   {"package": "com.nature.hotwonder", "action": "uninstall"},
   {"package": "io.voodoo.paper2", "action": "uninstall"},
-  {"package": "com.duokan.phone.remotecontroller", "action": "uninstall"},
   {"package": "piano.game.music.beat.tiles", "action": "uninstall"},
   {"package": "com.dz.heddx", "action": "uninstall"},
   {"package": "com.raciing.driver.huand.game", "action": "uninstall"},
