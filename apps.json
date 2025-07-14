@@ -215,6 +215,8 @@
   {"package": "com.wood.bolt.wordle.screw.nuts.puzzle", "action": "uninstall"},
   {"package": "mobeasy.classic.calculator", "action": "uninstall"},
   {"package": "mobeasyapp.math.calculator", "action": "uninstall"},
+  {"package": "com.bp.box", "action": "uninstall"},
+  {"package": "com.shine.on.torch.galaxyz", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
