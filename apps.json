@@ -217,6 +217,9 @@
   {"package": "mobeasyapp.math.calculator", "action": "uninstall"},
   {"package": "com.bp.box", "action": "uninstall"},
   {"package": "com.shine.on.torch.galaxyz", "action": "uninstall"},
+  {"package": "com.clean.tidy.cleaning", "action": "uninstall"},
+  {"package": "com.hungryfish.frenzy.fish", "action": "uninstall"},
+  {"package": "com.JindoBlu.TwoPlayerGamesChallenge", "action": "uninstall"},
   {"package": "photovideorecovery.recoverdeletedfilesphotovideo.azrecovery", "action": "uninstall"}
 
 ]
